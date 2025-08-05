@@ -1,23 +1,24 @@
-<h1 align="center">Hi 👋, I’m Vilius</h1>
+<h1 align="center">Hi 👋, I'm Vilius</h1>
+<h3 align="center">Artificial Intelligence Student | AI/ML Enthusiast | Building the Future with Code</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viliusjan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://github-profile-trophy.vercel.app/?username=viliusjan&theme=radical" alt="Trophies" />
+  <em>Passionate about artificial intelligence and creating efficient, scalable solutions</em>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m passionate about **Artificial Intelligence**, **Neural Networks**, and building performant, efficient systems.
+I'm an Artificial Intelligence student with a deep passion for **Neural Networks**, **Machine Learning**, and building performant, efficient systems. Currently focused on exploring cutting-edge AI technologies and developing practical applications.
 
-- 🧠 Exploring novel AI models & neural architectures  
-- 🐍 Proficient in **Python** for ML & data science  
-- 💻 Experienced with **C++** for performance-critical applications  
-- 🔧 Currently learning **C#**  
-- 🐧 Linux enthusiast (3+ years): **Bash** & **Zsh** power user  
-- ☁️ Comfortable with cloud hosting & containerization via **Docker**  
-- 🚀 Always open to collaborate on cutting-edge projects  
+- 🎓 Artificial Intelligence Student @ KTU
+- 🧠 Exploring novel AI models & neural architectures
+- 🐍 Proficient in **Python** for ML & data science
+- 💻 Working with **C++** for performance-critical applications
+- 🔧 Currently learning **C#** and expanding my skillset
+- 🐧 Linux enthusiast (3+ years): **Bash** & **Zsh** power user
+- ☁️ Comfortable with cloud hosting & containerization via **Docker**
+- 🚀 Seeking internship opportunities and open to collaborate on innovative projects
 
 ---
 
@@ -58,6 +59,15 @@ I’m passionate about **Artificial Intelligence**, **Neural Networks**, and bui
 
 ---
 
+## 🚀 What I'm Working On
+
+- 🔬 Experimenting with neural network architectures for computer vision
+- 📚 Deepening my understanding of deep learning fundamentals
+- 🛠️ Building personal projects to apply theoretical knowledge
+- 🌱 Currently learning advanced C# and .NET development
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -75,6 +85,14 @@ I’m passionate about **Artificial Intelligence**, **Neural Networks**, and bui
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viliusjan&layout=compact&theme=transparent" alt="Top Languages"/>
   </picture>
 </p>
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out if you'd like to collaborate on projects, discuss AI/ML topics, or explore internship opportunities!
+
+- 📧 **Email:** [email]
 
 ---
 
